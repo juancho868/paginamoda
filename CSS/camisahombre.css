@@ -1,0 +1,40 @@
+* {
+
+	padding:0px;
+	margin:0px; 
+}
+div#head {
+	width:250px;
+	height:250px;
+	float:left;
+}
+div#body {
+	margin:auto;
+	margin-top:100px;
+	width:900px;
+	height:400px;
+	border:0px solid black;
+	font-family:arial,helvetica,sans-serif;
+	float:center;
+}
+div#mujer{
+	width:250px;
+	height:250px;
+	float:left;
+}
+div#hombre {
+	width:250px;
+	height:250px;
+	float:right;
+}
+h2#cole{
+	color:33f;
+}
+
+h3#p1 a, #p2 a, #p3 a
+{
+
+	text-decoration:none;
+	
+
+}
